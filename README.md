@@ -1,25 +1,51 @@
 # Project-Management-System
 
-
-This project demonstrates a fully integrated **Workforce and Project Management System** built using **SQL**, **SharePoint**, **Power Automate**, and **Power Apps**. The system allows users to manage employees, projects, and tasks with seamless automation and interaction between cloud services.
+This project demonstrates a prototype of a **Workforce and Project Management System** built using **SQL**, **SharePoint**, **Power Automate**, and **Power Apps**. The system allows users to manage employees, projects, and tasks with seamless automation and interaction between cloud services.
 
 ---
 
-## Features
+## 🚧 **Work in Progress**
 
-1. **Employee Management**
+### **Important Note**
+This project is currently a **prototype** and is under continuous development. It has been created for **learning purposes**, with a focus on:
+- **Exploring Automation** using Power Automate and Power Apps.
+- **Enhancing Efficiency** through dynamic database operations.
+- **Adding Extra Features** for a more robust and user-friendly system.
+
+I am actively working to improve the application by adding:
+- Advanced automation workflows.
+- Additional features for task and project management.
+- Enhanced data visualization and reporting.
+
+---
+
+## Features (Prototype)
+
+### Current Implementations
+1. **Employee Management**:
    - Add, edit, and delete employees.
-   - Display employees with their associated department names.
-   - Automate email notifications for added or updated employees.
+   - Display employees with associated department names.
 
-2. **Project Management**
-   - View projects with associated department names dynamically.
-   - Add, edit, and delete projects.
+2. **Project Management**:
+   - View, add, edit, and delete projects.
 
-3. **Task Management**
+3. **Task Management**:
    - Assign tasks to employees and link them to projects.
    - View tasks dynamically with employee and project details.
-   - Automated workflows for synchronizing data and email notifications.
+
+4. **Automation**:
+   - Basic data synchronization between Azure SQL and SharePoint.
+   - Automated email notifications for certain actions.
+
+### Planned Features
+- Advanced automation for task notifications and reminders.
+- Integration with Power BI for detailed reporting.
+- Role-based access control for enhanced security.
+
+---
+
+You can fix this project, suggest features, or contribute. Let me know if you need feedback or clarification on the current implementation!
+
 
 ---
 
